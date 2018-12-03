@@ -1,0 +1,22 @@
+{
+  "glossary": {
+    "title": "타이틀",
+    "GlossDiv": {
+      "title": "\uD0C0\uC774\uD2C0",
+      "GlossList": {
+        "GlossEntry": {
+          "ID": 1010101,
+          "SortAs": "SGML",
+          "GlossTerm": "Standard Generalized Markup Language",
+          "Acronym": "SGML",
+          "Abbrev": "ISO 8879:1986",
+          "GlossDef": {
+            "para": "A meta-markup language, used to create markup languages such as DocBook.",
+            "GlossSeeAlso": ["GML", "XML"]
+          },
+          "GlossSee": "markup"
+        }
+      }
+    }
+  }
+}
